@@ -1,0 +1,2 @@
+# STM32_Lib_MCP41xxx
+Digital potentiometer MCP41xxx ( MCP41010 MCP41100 MCP41050 ) STM32
